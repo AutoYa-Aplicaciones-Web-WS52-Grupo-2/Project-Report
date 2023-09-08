@@ -1125,7 +1125,7 @@ Entonces el sistema mostrará la landing page de la aplicación<br>
 
 ### Landing Page Mock-up
 
-## Web Applications UX/UI Design
+k## Web Applications UX/UI Design
 
 ### Web Applications Wireframes
 
@@ -1177,8 +1177,8 @@ EL usuario debe verificar el contrato de Alquiler  que el propietario del vehíc
 ![impur](./imagenes/img_wireframe/arrendatario/buscar3.png)
 ![impur](./imagenes/img_wireframe/arrendatario/buscar4.png)
 
-  
-**MANTENIMIENTO:** El el usuario podra enviar un mensaje directamente al correo electrónico del propietario del vehículo para informarle sobre cualquier problema o sugerencia. Para esto primero tendra que buscar al titular y presiona el botón de **Buscar** , tambien se puede agregar fotos presionando el botón **Agregar fotos** luego se debera ingresar los datos necesarios y presionar el botón **Enviar**.  
+
+**MANTENIMIENTO:** El el usuario podra enviar un mensaje directamente al correo electrónico del propietario del vehículo para informarle sobre cualquier problema o sugerencia. Para esto primero tendra que buscar al titular y presiona el botón de **Buscar** , tambien se puede agregar fotos presionando el botón **Agregar fotos** luego se debera ingresar los datos necesarios y presionar el botón **Enviar**.
 
 ![impur](./imagenes/img_wireframe/arrendatario/mante1.png)
 ![impur](./imagenes/img_wireframe/arrendatario/mante2.png)
@@ -1197,17 +1197,17 @@ EL usuario debe verificar el contrato de Alquiler  que el propietario del vehíc
 ![impur](./imagenes/img_wireframe/arrendatario/alqui2.png)
 ![impur](./imagenes/img_wireframe/arrendatario/alqui3.png)
 
- Al presionar el botón **Pagar** se abrira otra ventana para realizar el pago , se encontrara 2 opciones de pago : EFECTIVO y ONLINE. Dentro de esta ventana estaran los datos de precio de alquiler , tiempo de alquiler , fecha de inicio de contrato del alquiler , fecha de fin del contrato de alquiler y lugar de recojo del vehículo.
+Al presionar el botón **Pagar** se abrira otra ventana para realizar el pago , se encontrara 2 opciones de pago : EFECTIVO y ONLINE. Dentro de esta ventana estaran los datos de precio de alquiler , tiempo de alquiler , fecha de inicio de contrato del alquiler , fecha de fin del contrato de alquiler y lugar de recojo del vehículo.
 
- ![impur](./imagenes/img_wireframe/arrendatario/pago1.png)
- 
-  Al presionar el botón **Pago Efectivo** se abrira otra ventana en la cual se debera especificar la hora de recojo del vehículo y luego presionar el botón **Confirmar hora de alquiler**.Luego aparecera una ventana para realizar un pago de confirmacion , que es de 5 soles, por uso de la aplicacion. Luego de pagar saldra una ventana de  confirmacion de hora y fecha de alquiler 
+![impur](./imagenes/img_wireframe/arrendatario/pago1.png)
 
- ![impur](./imagenes/img_wireframe/arrendatario/pagoefe1.png)
- ![impur](./imagenes/img_wireframe/arrendatario/pagoon1-1.png)
- ![impur](./imagenes/img_wireframe/arrendatario/pagoefe2.png)
+Al presionar el botón **Pago Efectivo** se abrira otra ventana en la cual se debera especificar la hora de recojo del vehículo y luego presionar el botón **Confirmar hora de alquiler**.Luego aparecera una ventana para realizar un pago de confirmacion , que es de 5 soles, por uso de la aplicacion. Luego de pagar saldra una ventana de  confirmacion de hora y fecha de alquiler
 
-  
+![impur](./imagenes/img_wireframe/arrendatario/pagoefe1.png)
+![impur](./imagenes/img_wireframe/arrendatario/pagoon1-1.png)
+![impur](./imagenes/img_wireframe/arrendatario/pagoefe2.png)
+
+
 ![impur](./imagenes/img_wireframe/arrendatario/pagoon1.png)
 ![impur](./imagenes/img_wireframe/arrendatario/pagoon2.png)
 
@@ -1242,7 +1242,7 @@ EL usuario debe verificar el contrato de Alquiler  que el propietario del vehíc
 
 ![impur](./imagenes/img_wireframe/propietario/proinicio.png)
 
-**REGISTRO DE VEHÍCULO :** El usuario podra registrar el vehículo que desea compartir.Los datos a ingresar son marca, modelo , velocidad máxima , consumo ,largo,ancho,alto, peso,clase, transmsión, tiempo de alquiler , costo de alquiler al mes y lugar de recojo del vehículo. El usuario debera presionar el botón **Crear contrato de alquiler** para poder activar el botón de **Registrar**.  
+**REGISTRO DE VEHÍCULO :** El usuario podra registrar el vehículo que desea compartir.Los datos a ingresar son marca, modelo , velocidad máxima , consumo ,largo,ancho,alto, peso,clase, transmsión, tiempo de alquiler , costo de alquiler al mes y lugar de recojo del vehículo. El usuario debera presionar el botón **Crear contrato de alquiler** para poder activar el botón de **Registrar**.
 
 ![impur](./imagenes/img_wireframe/propietario/proregistrovehi1.png)
 ![impur](./imagenes/img_wireframe/propietario/proregistrovehi2.png)
@@ -1285,7 +1285,7 @@ Al presionar el cuadro del auto compartido aparecerá todas las solicituds que s
 ![impur](./imagenes/img_wireframe/propietario/proalqui6.png)
 
 En esta ventana también estará disponible los boton de **Aceptar Alquiler** y **Rechazar Alquiler**, en donde el usuario podra seleccionar de acuerdo a la verificación hecha si desea o no alquilar el vehículo a esa persona.Si el alquiler es aceptado ,al presionas el botón **Aceptar Alquiler** aparecerá el mensaje de Estado de Pago pendiente, esto quiere decir que el arrendatario aun no ha realizado el pagado, pero si aparece como Estado de Pago Pagado quiere decir que el arrendatario ya ha realizado el pago el alquiler.
- 
+
 ![impur](./imagenes/img_wireframe/propietario/proalqui6.png)
 ![impur](./imagenes/img_wireframe/propietario/proalqui7.png)
 ![impur](./imagenes/img_wireframe/propietario/proalqui8.png)
@@ -1297,7 +1297,7 @@ Link de Wireflow Diagrams en Figma para una mejor observación:
 
 [Clic al link](https://www.figma.com/file/AqKugnY7B6z2MgAlJgcjAx/wireflow--AUTOYA?type=design&node-id=0%3A1&mode=design&t=vZTSPlnzO1X1Asfj-1)
 
-Link de Prototipo Interactivo en Figma: 
+Link de Prototipo Interactivo en Figma:
 
 [Clic al link](https://www.figma.com/proto/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=8-95&t=1x64DPV09UWjTOkD-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A123&mode=design)
 
@@ -1441,9 +1441,9 @@ Link de Prototipo Interactivo en Figma:
 
 ### Web Applications User Flow Diagrams
 
-Link para mejor visualización 
+Link para mejor visualización
 [Clic al link](https://miro.com/welcomeonboard/YVVOeGJXcThodEhNaFppYjFGTGJpNXVOV3hHckM0R21IUnZoSmtSNWF6U1d4Rzg0UUVqN1UzSU1PSEJJMFlFWXwzNDU4NzY0NTM4Mzk4OTYxMTY0fDI=?share_link_id=319948662953)
- 
+
 **USUARIO (Arrendatario)**
 
 *INICIO DE SESIÓN*
@@ -1472,7 +1472,7 @@ Link para mejor visualización
 
 **User goal:** : Como arrendatario, quiero acceder de forma sencilla a las opciones  disponibles.
 
-**Happy paths:** El arrendatario al iniciar la plataforma, observa en la parte superior las diversas opciones disponibles. 
+**Happy paths:** El arrendatario al iniciar la plataforma, observa en la parte superior las diversas opciones disponibles.
 
 **Unhappy paths:** El arrendatario presiona alguna herramienta externa de la plataforma.
 
@@ -1555,7 +1555,7 @@ Link para mejor visualización
 
 **User goal:** : Como propietario, quiero acceder de forma sencilla a las opciones para utilizar todas las facilidades que ofrece la plataforma.
 
-**Happy paths:** El propietario al iniciar la plataforma, observa en la parte superior las  opciones disponibles. 
+**Happy paths:** El propietario al iniciar la plataforma, observa en la parte superior las  opciones disponibles.
 
 **Unhappy paths:** El propietario presiona alguna herramienta externa de la plataforma.
 
@@ -1563,7 +1563,7 @@ Link para mejor visualización
 
 ![impur](./imagenes/img_userflow/proregistro_vehi.jpg)
 
-**User goal:** : Como propietario, quiero poder registrar mi vehículo. 
+**User goal:** : Como propietario, quiero poder registrar mi vehículo.
 
 **Happy paths:** El propietario ingresa todos los datos necesarios para el registro.
 
@@ -1605,7 +1605,7 @@ Link para mejor visualización
 
 ![impur](./imagenes/img_mockup/arrendatario/captura1.png)
 
-Enlace presentación: 
+Enlace presentación:
 [clic al link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EY4R4It6CeNBllf_s8vn00cBi_BbLV51NymL9Uizn0L5Xw?e=wPwVEh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 Enlace explicación: [clic al link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EesieeR2IC5AmeSpiIxDjEcBapDsu_fo0OaqGL7pFpqfPg?e=kMLhS1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
@@ -1637,6 +1637,9 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 ### Database Diagram
 
+![impur](./imagenes/img_database/database_diagram.png)
+
+Link de Vertabelo: [clic al link](https://my.vertabelo.com/doc/OzQPFOH2UjXuWwvhpU1pYXPdOKOahJum)
 ![impur](./imagenes/img_database/database_diagram.png)
 
 Link de Vertabelo: [clic al link](https://my.vertabelo.com/doc/OzQPFOH2UjXuWwvhpU1pYXPdOKOahJum)
